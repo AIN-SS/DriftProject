@@ -1,0 +1,262 @@
+fileFormatVersion: 2
+guid: 9052c7bd2bba6b843af1a8fdf7c444c5
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ALCA Texture
+    second: {fileID: 2100000, guid: 49ebaf4277e85ad4db1a1629dbf3475c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Advan GT Texture
+    second: {fileID: 2100000, guid: 4f7c7a53ae2bdec4381d583fe2813fcb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Alcantara Texture
+    second: {fileID: 2100000, guid: fdd1a1603f11f384dbd505176233e3f2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Aluminum Texture
+    second: {fileID: 2100000, guid: 80338dbbbee15da4889acc5d7d83d437, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Base Texture
+    second: {fileID: 2100000, guid: b57cfbe4d347a3e42ad08e338f55bdbc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Brake Texture
+    second: {fileID: 2100000, guid: c5acdb378a384264c9d69f6040fd489e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet Texture
+    second: {fileID: 2100000, guid: ef36f2d3b122fbf4fa1efc0a989870f8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chrome Texture
+    second: {fileID: 2100000, guid: b770de011ac1df4459c55ee3b9e39e41, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cooler Texture
+    second: {fileID: 2100000, guid: b7cd66ff88acfeb4ba0422d59c466ce6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Disk
+    second: {fileID: 2100000, guid: 7dab4032a58ac7d4a93c44e80646ab5c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Exterior Tyre Texture
+    second: {fileID: 2100000, guid: 839515c30484e6f44b6f9c3b5e8d4a79, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass Clear Texture
+    second: {fileID: 2100000, guid: b172b4eb766bca640a5cb2d08182c65b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass Gray Texture
+    second: {fileID: 2100000, guid: a52815197922fd54da14ad8a54e6f584, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Grey 3 Texture
+    second: {fileID: 2100000, guid: a77e5af90f4480e4b8b5fab3893de15d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Head Texture
+    second: {fileID: 2100000, guid: 2ad05d4cf95f1d6458e7fbb7cf32d685, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Indi Texture
+    second: {fileID: 2100000, guid: f53380df58d96da49922173d82d86e18, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Korobka Texture
+    second: {fileID: 2100000, guid: a848a5c93d7b3b244886906bff8aee2e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Leather 10 Texture
+    second: {fileID: 2100000, guid: f69dbd7fd0cba6a4195e9df2cea56a73, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: License Plate Texture
+    second: {fileID: 2100000, guid: 9ea415d6149ffe645b85af2b13a3e92e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Main Vehicle Texture _ Paint
+    second: {fileID: 2100000, guid: 032b44241f053054087ba8f0f7d753e9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PTN Speaker Texture
+    second: {fileID: 2100000, guid: 9c622a6faa5c34d498ce9cc0d884d6a0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plastic Texture
+    second: {fileID: 2100000, guid: 1847e0badb1ebb0428c8bf4f3ab987a2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Polic Texture
+    second: {fileID: 2100000, guid: 8bc4acfb20a8b3c4a90829fd5b6d8217, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Reverse Light Texture
+    second: {fileID: 2100000, guid: 2faa4138e0bb2b44183069cfcb6b3844, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rubber Texture
+    second: {fileID: 2100000, guid: 94067fb178aeb2d4e8b92d741638752a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Screw 8 Texture
+    second: {fileID: 2100000, guid: 71f02d97c5497b642b7117f7152f5692, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Seatbelt Texture
+    second: {fileID: 2100000, guid: 6b5945708ec416a429e2e3f1b4ec3e0d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stich Texture
+    second: {fileID: 2100000, guid: 5885f72aedfdf474bb4536ceedcc82db, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Supra 20 GT 92 DoorTags Texture
+    second: {fileID: 2100000, guid: 444895d4282af8d4394c110b0cc87970, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Supra 20 GT 92 Gauges Texture
+    second: {fileID: 2100000, guid: aa1133e91c87822409bef363d5782d80, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Supra 20 GT 92 Symbols Emboss Texture
+    second: {fileID: 2100000, guid: 12995600af1350645ab56eef3fd797f0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Supra 20 GT 92 Symbols Texture
+    second: {fileID: 2100000, guid: 2befcd5ac32a5704c98bac643e69ed06, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Undercarriage Texture
+    second: {fileID: 2100000, guid: ec6201515e2ad7f4a895928365ba0335, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
